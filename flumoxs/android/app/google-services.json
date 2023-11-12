@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "428090805625",
+    "project_id": "flumoxs-production",
+    "storage_bucket": "flumoxs-production.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428090805625:android:01df75fa89ec32a01273a8",
+        "android_client_info": {
+          "package_name": "com.example.flumoxs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428090805625-gtistd43r689js970rg1itng74menjm7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcSEXtkrVqSlLQtCUXNhiqN3u8Kl8BXrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "428090805625-gtistd43r689js970rg1itng74menjm7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
